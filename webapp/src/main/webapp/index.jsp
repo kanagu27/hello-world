@@ -3,7 +3,7 @@
 <title>Page Title</title>
 <style>
 body {
-  background-color : blue;
+  background-color : green;
   text-align: center;
   color: blue;
   font-family: Arial, Helvetica, sans-serif;
